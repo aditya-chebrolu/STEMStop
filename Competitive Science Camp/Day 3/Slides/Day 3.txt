@@ -1,0 +1,511 @@
+Day 3 - Chemistry/Physics
+Mihit Garlanka & Aditya Chebrolu
+
+Chemistry
+
+Periodic Table 
+Element: A pure substance that cannot be simplified into more substances
+The Periodic Table of Elements is an excellent way of organizing all the elements into an ordered and understandable form
+
+Periodic Table Meanings
+Atomic Number
+Symbol
+Name
+Atomic Weight
+
+Periodic Table Meanings
+
+Elements have protons, neutrons, and electrons
+Protons have a positive charge 
+Neutrons have no charge
+Electrons have negative charge and have a very insignificant amount of weight
+To find the amount of neutrons in an atom, you do atomic weight (protons + neutrons)-atomic number (number of protons) = the number of neutrons
+Can have varying amounts of neutrons known as isotopes
+
+Periodic Table Sections
+Metals are highly conductive solids that are easily malleable and reflect light well
+
+Non metals aren’t conductive and they don’t reflect light and aren’t malleable
+
+Metalloids exhibit some qualities of metals and non metals
+
+Periodic Table Sections Continued
+
+Valence Electrons
+Valence Electrons are electrons that are on the outside shell of the atom
+there can only be a maximum of 8 valence electrons per shell
+
+
+Valence Electrons	
+Valence Electrons can be determined by their row (group) on the periodic table
+Group 1 has 1 Valence Electron, Group 2 has 2, Group 13 has 3, Group 14 had 4, Group 15 has 5, Group 16 has 6, Group 17 has 7,Group 18 has 8
+
+Valence Electrons
+Elements always want to have a full valence shell whenever reacting
+This usually means having 8 valence electrons (Elements with 4 or more) or donating valence electrons until there is none left (Elements with 4 or less)
+Valence electrons are traded in reactions
+If there is a  compound that contains Be (2 Valence Electrons) and Cl(7 Valence Electrons), the compound must be BeCl2 because Be has to give away 2 valence electrons and Cl needs one valence electron. Therefore, 2 instances of Cl is able to solve the situation.
+
+
+
+Covalent Bonds
+Covalent Bonds are bonds formed between  2 nonmetals
+Since none of the electrons are strong enough to pull another, they share the electrons
+
+Ionic Bonds
+Ionic Bonds are formed between a metal and non metal
+Ionic Bonds are formed from electrostatic attraction between ions with negative charge
+
+Chemical Equations
+How many molecules per reaction
+How many atoms per molecule
+Reactants Side
+Products Side
+We have 6 Carbon Atoms, 24 Oxygen Atoms, and 24 Hydrogen Atoms
+Yields
+
+By the law of conservation of matter, matter cannot be created or destroyed. 
+A balanced equation is when there is an equal amount of elements on both sides
+For example: CO2 + H2O -> C6H12O6 + O2 isn’t balanced
+To balance it, you must manipulate the number of molecules
+Balancing Equations
+
+
+Questions 30-34
+
+Density
+Density is simply the mass of a substance divided by its volume. 
+
+
+Therefore, density is simply the amount of mass per unit volume.
+Density is commonly represented by the latin letter rho:
+The density of water is roughly 1000 kg/m^3
+Anything more dense will sink in water
+Anything less dense will float in water
+
+
+
+
+
+Mass (kg)
+Volume (m^3)
+=
+Density
+
+Density Practice
+A block of wood and a block of iron have the same volume in Minecraft. However, the iron block has a greater density than the wood block. 
+Determine which of the blocks has a greater mass.
+
+
+
+
+
+
+
+Density Practice - Solution
+The equation for density shows us that increasing mass also increases density. We call this relationship directly proportional. As both blocks have the same volume (we can disregard this), but the wood block has a greater mass, it has a greater density.
+
+
+
+
+
+
+
+Temperature and Density
+Does temperature affect density?
+Yes! Since increasing volume decreases density (inversely proportional):
+Heating a substance will cause molecules to speed up and spread apart, thereby taking up more volume and reducing density.
+Cooling a substance will cause molecules to slow down and get closer, thereby taking up less volume and increasing density.
+But, there is one exception → Water
+Water is more dense as a solid than a liquid. This is why ice floats on water!
+
+
+
+
+
+
+Kahoot	
+https://create.kahoot.it/details/chemistry-periodic-table/118271bf-7036-435e-8349-2f9e3a1e3d09
+
+https://create.kahoot.it/details/valence-electrons/e4c40297-70b2-43e5-a362-3385e96a68a6
+
+Introduction & Background
+Physics - The science of the basic principles that surround us and shape up the physical world.
+Isaac Newton - Developed Classical/Newtonian Mechanics
+Albert Einstein - Developed theory of relativity 
+
+Rate of Change & Speed  
+Rate of Change is simply any quantity divided by time. 
+
+
+
+Therefore, speed, which the rate of change of distance over time, is equivalent to:
+
+
+
+Quantity
+Time
+Distance
+Time
+
+Scalar vs. Vector Quantities
+Speed is a scalar quantity, meaning that it is ignorant of direction. 
+Therefore, if a person travels from point A to point B in 2 seconds in the path shown, their total distance traveled would be: 
+3 ft + 4 ft = 7 ft
+And his/her speed would be:
+
+
+We simply sum all of the distances traveled.
+
+
+
+
+
+5 ft
+3 ft
+4 ft
+A
+B
+7 ft
+2 seconds
+                   3.5 feet/second
+=
+
+Velocity
+Unlike speed, velocity is the rate of change of distance over time with respect to direction. 
+Therefore, instead of distance, we refer to the change in position as displacement: 
+
+Displacement is simply the distance between the starting and ending point of an object. Hence, velocity is also equal to:
+
+
+
+
+
+Displacement (Δx)
+Time
+=
+Velocity
+Final Position - Initial Position
+Time
+or
+Total Change in Position
+Time
+
+Velocity as a Vector Quantity
+Velocity is a vector quantity, meaning that it is not ignorant of direction. 
+Therefore, if a person travels from point A to point B in 2 seconds in the path shown, their total displacement traveled would be: 
+Total Change in Position = 5 ft
+And his/her velocity would be:
+
+
+Imagine a straight line between point A and point B:
+That is the displacement, or total change in position!
+
+
+
+
+
+5 ft
+3 ft
+4 ft
+A
+B
+5 ft
+2 seconds
+                   2.5 feet/second
+=
+
+Practice Problem #1, Part A
+
+
+
+
+
+Poojith drives from point X to point Y across the road shown from left to right in the direction shown by the arrows.  As you can see, the road is extremely crooked, and each of the 4 segments of the road as shown above are 5 miles apart. However, the net change in position from point X to point Y is 10 miles.
+Calculate both the distance and the displacement that Poojith travels in his path.
+
+
+
+
+
+X
+Y
+10 mi
+5 mi
+
+Practice Problem #1, Part A - Solution
+
+
+
+
+
+
+
+
+
+
+
+X
+Y
+10 mi
+5 mi
+Distance
+Displacement
+As distance is the total amount that Poojith traveled:
+
+5 miles x 4 = 20 miles
+As displacement is Poojith’s net change in position:
+
+Δx = 10 miles
+
+Practice Problem #1, Part B
+
+
+
+
+
+Poojith drives from point X to point Y across the road shown from left to right in the direction shown by the arrows in 20 minutes. 
+Using your answers from part A of this question, calculate Poojith’s speed and velocity during his drive from point A to point B in miles/minute. 
+
+
+
+
+
+X
+Y
+10 mi
+5 mi
+
+Practice Problem #1, Part B - Solution
+
+
+
+
+
+
+
+
+
+
+
+X
+Y
+10 mi
+5 mi
+Speed
+Velocity
+As speed is simply distance over time:
+
+
+As velocity is simply displacement over time:
+
+
+20 miles
+20 minutes
+=
+1 mi/min
+10 miles
+20 minutes
+=
+0.5 mi/min
+
+Challenge Problem
+
+
+
+
+
+
+A race car travels around a circular track of length 3 miles once for 6 minutes. The car starts and finishes at the same spot as shown in the image. 
+Calculate the speed and the velocity of the car. 
+
+
+
+
+
+
+
+Challenge Problem - Solution
+
+
+
+
+
+
+
+
+
+
+
+
+
+Speed
+Velocity
+As speed is simply distance over time:
+
+
+Since the car has no net change in position:
+
+
+3 miles
+6 minutes
+=
+0.5 mi/min
+0 miles
+6 minutes
+=
+0 mi/min
+
+Acceleration
+Acceleration is the rate of the change of velocity with respect to time:
+
+
+Therefore, acceleration is also a vector quantity and has both a magnitude and direction.  
+Remember that acceleration and velocity do not have to be in the same direction! For example, an object with opposite signs of velocity and acceleration is decreasing in speed, and an object with the same signs of velocity and acceleration is increasing in speed.
+
+
+
+
+
+
+Velocity (Δv)
+Time
+=
+Acceleration
+
+Newton’s First Law
+Newton’s First Law states that an object at rest has a tendency to remain at rest, and an object in motion has a tendency to stay in motion.
+
+This law is also known as the Law of Inertia, which states that objects “like” to be unchanged in state. 
+
+Objects are Lazy!
+
+
+
+
+
+
+Newton’s First Law in Action
+As we can see, even though the tablecloth is moved very quickly, the objects are still in the same place because they have a tendency to be at rest.
+
+
+
+
+
+Newton’s Second Law
+Newton’s Second Law states that an applied force on an object is equivalent to the object’s mass and acceleration:
+
+F = ma
+Where F is force in Newtons, m is mass in kilograms, and a is acceleration in m/s²
+
+
+
+
+
+
+
+Therefore, an object which has an acceleration which is not zero and has a mass has a force acting upon it. 
+The net force acting on an object is the sum of all the forces acting on it.
+
+Newton’s Second Law in Action
+When the kicker kicks the football, the football (that contains mass) accelerates in the air. Therefore, the kicker applies a force to the ball that causes this line of motion.
+
+
+
+
+
+Practice Problem #2
+
+
+
+
+
+The blue team (on the left) and the green team (on the right) challenged each other to a game of tug-of-war. The blue team pulls the rope with a force of 2200 N to the left, and the green team pulls the rope with a force of 2500 N to the right.
+Calculate the net force on the rope and its direction. 
+
+
+
+
+
+
+Practice Problem #2, Solution
+
+
+
+
+
+The net force on the rope can simply be calculated by subtracting the 2 forces:
+2500 N - 2200 N = 300 N
+As the the green team has a larger force that points to the right, the net force is also directed rightward.
+
+
+
+
+
+
+
+Practice Problem #3
+
+
+
+
+
+
+A car with mass m travels with a constant velocity vₒ to the right.
+Calculate the force acted on the car.
+
+
+
+
+
+
+Practice Problem #3, Solution
+
+
+
+
+
+
+The acceleration of the car is zero. As acceleration is simply the rate of change in velocity, and the car travels at constant velocity, the acceleration is also velocity. We can then calculate the force on the car:
+F = ma → F = m * 0 → F = 0
+Therefore, the force acting on the car is also 0.
+
+
+
+
+
+
+
+Newton’s Third Law
+Newton’s Third Law states that for every action, there is an equal and opposite reaction (action-reaction pair) with a net force of zero.
+Therefore, if object X exerts a force on object Y, object Y exerts a force of the same magnitude in the opposite direction of X. 
+
+An example of this law in action is shown below:
+
+
+
+
+
+
+
+
+Practice Problem #4,
+
+
+
+
+
+
+
+A ball approaches a wall at a speed v with  a force F. It then bounces off the wall and travels in the same direction at a speed v with a force F. 
+Using Newton’s third law, explain, in your own words, why this phenomenon occurs.
+
+Practice Problem #4, Solution
+
+
+
+
+
+
+
+Newton’s third law states that every action has an equal and opposite reaction. Therefore, we can define an action-reaction pair for this scenario. The action is the force that the ball applies on the wall, whereas the reaction is the force that the wall applies on the ball to cause it to bounce and travel in the opposite direction.
