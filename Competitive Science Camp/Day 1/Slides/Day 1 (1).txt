@@ -1,0 +1,499 @@
+Day 1 - Biology
+Mihit Sai Garlanka & Aditya Chebrolu
+
+Scientific Method
+The scientific method is simply a process that can be used for research and experimentation. It outlines a set of systematic guidelines to explore observations and answer questions based on a scientific hypothesis. 
+
+Identify the Problem
+Gather observations and make inferences based on them
+Come up with a possible question that can be answered with the scientific method
+
+Formulate a Hypothesis
+Perform research on the chosen question to be answered
+Based on the gathered information, generate a proper solution to the problem
+Make an educated guess (hypothesis) using the if… then… statement
+Perform the Experiment
+Outline a step-by-step procedure to be followed in the experiment
+Make sure you test the hypothesis!
+Repeat the experiment 3 times for 3 trials
+Make Conclusion(s)
+Summarize results
+State if the hypothesis was accepted or rejected
+Share your results to the scientific community!
+Collect and Analyze Data
+Use graphs/tables/figures to represent the data more easily
+Explain why you think you got a certain outcome
+
+
+Variables
+Variables are factors in a scientific experiment that can exist in different amounts or types. The four types of variables are listed below:
+
+
+
+Independent Variable
+
+The independent variable that is changed in a scientific experiment to test the effects on the dependent variable.
+Dependent Variable
+
+The dependent variable is the variable that is tested and measured in a scientific experiment.
+Control Variable
+
+The control variable is not changed in an experiment as a reference point to test the validity of the independent variable.
+Constants
+
+Constants remain the same throughout the entire experiment to reduce the effect of external factors on the experiment.
+
+Questions 1-4
+
+Taxonomy
+Taxonomy is simply the discipline of classifying organisms, or living things, and assigning each a universally accepted name. 
+There are 8 levels of taxonomy organizing all organisms into a hierarchy based on their physical similarities and molecular homologies:
+
+Most Broad or Generalized
+Most specific
+Dear
+King
+Philip
+Came
+Over
+For
+Good
+Soup
+
+Binomial Nomenclature
+Carolus Linnaeus, a Swedish botanist, developed a two-word naming system for all species on earth called binomial nomenclature. 
+
+The format for binomial nomenclature is:
+
+Genus species
+
+
+Examples:
+Canis latrans (Coyote)
+Canis lupus (Gray Wolf)
+
+Do you know the binomial nomenclature for humans?
+Homo sapiens
+
+
+
+
+Always underlined or italicized
+1st Letter is Capitalized
+All letters lowercase
+
+Practice Problem #1
+
+
+
+
+
+
+
+
+
+
+
+
+What is the binomial nomenclature name for the above organism?
+
+
+
+
+
+Vulpes vulpes
+
+Questions 5-8
+
+Body Systems
+Our body is made of 11 systems that work together to maintain homeostasis, in which the body maintains stable and steady conditions. 
+These systems are:
+Digestive
+Circulatory
+Immune
+Endocrine
+Muscular	
+
+
+
+
+
+Nervous			Reproductive
+Excretory 
+Respiratory
+Skeletal
+Integumentary
+
+
+The Digestive System
+The digestive system converts food into energy and basic nutrients to feed the entire body. The pathway for the digestive system is:
+Food → mouth (saliva) → esophagus → stomach → small intestine → large intestine → anus/rectum
+
+
+
+
+
+Mouth: begins mechanical digestion with chewing and chemical with amylase
+Stomach: acid digestion of protein
+Small intestine:  enzymes from pancreas and liver connect; nutrients are absorbed
+Large intestine:  water is absorbed
+Anus: undigested material is expelled
+
+
+Types of Digestion
+There are 2 types of digestion, mechanical digestion and chemical digestion, which will be looked at below: 
+In mechanical digestion, food is broken into smaller pieces in a physical manner. Mechanical digestion primarily occurs in the mouth when the food is chewed with teeth.
+In chemical digestion, food is broken down into simpler nutrients that can be used by cells. Chemical digestion occurs in the mouth with saliva, as well as in the stomach with gastric acid.
+It is important to note that, in chemical digestion, food molecules are broken down by adding water. This process is known as hydrolysis. These small molecules are then constructed again to form larger molecules with the removal of water to maintain homeostasis. This process is known as dehydration synthesis.
+
+
+
+
+
+
+Circulatory/Cardiovascular System
+The circulatory, or cardiovascular system, is analogous to the roads and highways in the body. It transports nutrients, wastes, hormones, and gases through the blood from one part of the body to another.
+The heart is the organ which allows the pumping of blood in the circulatory system, therefore allowing for the transport of the aforementioned substances.
+
+
+
+
+
+
+Circulatory System
+
+Also known as cardiovascular system
+Transports nutrients, wastes, hormones and gases 
+Types of vessels:
+Arteries (away)
+Arterioles (smaller, away)
+Capillaries (smallest vessels)
+Venules(smaller, towards)
+Veins (toward)
+
+Nervous System
+•Regulates behavior 
+•Maintains homeostasis
+•Regulates other organ systems    
+•Controls sensory and motor functions
+
+Central Nervous System and Peripheral Nervous System
+Two parts are the central nervous system and the peripheral nervous.
+CNS contains the brain and the spinal cord. All together, the brain and the spinal cord serve the nervous system's command station. When the sensory input reaches the CNS, the spinal cord and the brain figure outs what it exactly means. After, they quickly orders out the body parts that needs to move faster. 
+Peripheral nervous system
+contains the nerves, which leave the brain and the spinal cord and travel to certain areas of the body
+main job is to send information gathered by the body's sensory receptors to the CNS as quickly as possible. 
+Once the CNS has understood the information, the PNS will relay the specific orders back out the body. 
+
+Excretory System
+removes excess, unnecessary materials from the body fluids of an organism to help maintain internal chemical homeostasis 
+
+
+Kidneys → Ureter → Bladder → Urethra
+
+
+Respiratory System
+Moves air into and out of lungs
+Controls gas exchange between blood and lungs
+
+Skeletal System
+Protects and supports the body and its organs; interacts with skeletal muscles; produces red blood cells, white blood cells and platelets
+Allows for movement
+Contains 206 individual bones
+Axial skeleton (80 bones)
+Skull, spine, ribs, sternum
+Appendicular skeleton (126 bones)
+Arms, legs, pelvis, shoulders
+
+
+Muscular System	
+Responsible for movement of human body 
+3 Types of Muscles
+Smooth - forms the supporting tissue of blood vessels and hollow internal organs, such as the stomach, intestine, and bladder
+Cardiac - an involuntary muscle that constitutes the main tissue of the walls of the heart.
+Skeletal - attached to bones by bundles of collagen fibers known as tendons
+
+Endocrine System
+Regulates body activities with hormones
+
+Glands - responsible for making hormones
+Hypothalamus
+Pituitary
+Thyroid 
+Long term defense system
+
+Immune System
+protects against disease
+detect a wide variety of agents, known as pathogens
+Lymphatic system is part of it
+
+Immune System Continued
+Stores and carries WBC’s that fight disease
+Collects excess fluid and returns it to blood
+Lymph - liquid part of blood plasma when it is in lymph vessels
+Main Components
+Lymph Vessels
+Lymph Nodes
+WBC 
+	
+
+Integumentary System
+Organ system consisting of the skin, hair, and nails
+Largest organ in the body, The average person’s skin weights 10 pounds
+Forms a barrier to protect the body from chemicals, disease, UV light, and physical damage
+
+Helps regulate body temp
+Removes excretory waste through sweat
+Produces Vitamin D
+
+Homeostasis and Feedback Mechanisms
+Homeostasis -  Regulation of an organism internal condition, usually by a    ____________ system of  feedback mechanisms
+
+Feedback mechanisms (Positive and negative) - stabilizes health and body functions regardless of the outside changing conditions
+
+
+
+Feedback Mechanism
+Initiation event (homeostatic disruption) - causes a change in the environment
+Stimulus
+Receptor (sensor) - senses the stimulus and sends signals to the control center indicating a change
+Control center (homeostasis monitor) - detects if the system is within or outside of homeostatic balance and either turns off or activates the effector
+Response - causes a change in the environment opposite of the original change
+
+Questions 9-26
+
+Plants
+
+Plant Characteristics
+Multicellular
+Autotrophic (photosynthesis)
+Surrounded by cell walls containing cellulose (polysaccharide)
+Store reserve food as (starch)
+
+
+Taxonomy
+Plants are divided into two groups
+Based on the presence or absence of an internal transport system for water and dissolved materials
+Called Vascular System
+
+Vascular System
+Xylem tissue carries water and minerals upward from the roots
+Phloem tissue carries sugars made by photosynthesis from the leaves to where they will be stored or used
+Sap is the fluid carried inside the xylem or phloem
+Examples: Sunflowers, Oak Trees, Daisies
+
+Non-vascular System
+Do not have vascular tissue for support or conduction of materials
+No roots, stems or leaves
+Require a constantly moist environment
+
+Non-Vascular Plants
+
+Cell must be in direct contact with water.
+Materials move by diffusion cell to cell; 
+Have hair like structures that anchor them to the rocks.
+
+
+Non-Vascular Plants
+Includes  mosses, liverworts, and hornworts
+
+Liverworts
+Hornworts
+
+Vascular Plants
+Subdivided into two groups -- Seedless vascular plants and Seed-bearing vascular plants
+
+
+Liverworts
+Hornworts
+
+36
+Seedless Vascular Plants
+Includes club moss, horsetails, whisk ferns, and ferns
+Have underground stem called a rhizome.
+Reproduce by spores.
+Horsetails
+Whisk ferns
+
+37
+Seed-Bearing Vascular Plants
+Includes two groups – Gymnosperms and Angiosperms
+Gymnosperms have naked seeds in cones (do not produce fruit) 
+Angiosperms have flowers that produce seeds to attract pollinators.
+
+38
+Gymnosperms
+Wind pollinated
+Contains the tallest living plant – Sequoia or redwood
+
+39
+Angiosperms
+Flowering plants
+Seeds are enclosed in a fruit
+Most are pollinated by birds and bees
+Examples: grasses, tulips, 
+   oaks, dandelions
+
+Questions 27-31
+
+Photosynthesis
+process by which plants produce food
+
+water
+carbon dioxide
+oxygen
+glucose
+TAKE IN
+AND USING
+MAKE
+PLANTS
+(producers)
+light
+chlorophyll
+
+  6CO2 + 6H2O                        6O2 + C6H12O6
+
+light
+chlorophyll
+
+Where does Photosynthesis Occur?
+Inside of chloroplasts which are located in cells of the green parts of plants
+
+Chloroplast Structure
+Disks called THYLAKOIDS contain the pigment CHLOROPHYLL
+
+
+The liquid portion of a chloroplast is the STROMA
+
+
+
+
+
+
+
+
+Photosynthesis
+The light reaction occurs in the grana and must have light to occur. 
+ 
+The dark reaction (Calvin Cycle) occurs in the stroma.  
+
+Light Reactions - (the “photo” part of photosynthesis)
+
+Occur in the thylakoids
+Can only occur in the presence of light
+Convert solar energy to chemical energy
+
+Calvin Cycle - the “synthesis” part of photosynthesis
+Occur in the stroma
+Can occur in the presence of light or dark
+Glucose is made
+
+Calvin Cycle
+CO2 enters the cycle and leaves as sugar.
+The cycle spends the energy of ATP and NADPH to make the sugar.
+
+
+Factors Affecting Photosynthesis
+Intensity of light
+ high light, high rate 
+Carbon dioxide concentration
+ high CO2, high rate
+Temperature
+A certain range works best, too hot or too cold affects the work of enzymes
+
+
+Questions 32-37
+
+Respiration
+
+Energy is Stored in ATP
+Adenosine Triphosphate
+ATP releases energy when the bonds between the phosphates are broken 
+
+Cellular Respiration
+the breakdown of glucose molecules to form ATP
+Cellular respiration releases the energy in food to make ATP, a form of energy our cells can use 
+Occurs in the mitochondria 
+
+C6H12O6 + 6O2 → 6CO2 + 6H2O +  ATP
+
+Does this equation look familiar? 
+
+
+
+Aerobic Respiration
+IN THE PRESENCE OF OXYGEN
+
+	36 Total ATP are produced
+
+
+GLYCOLYSIS
+First Step of Cellular Respiration 
+
+Glycolysis
+Glyco → glucose 
+Lysis → split 
+
+The splitting of glucose into two pyruvates 
+Occurs in the cytoplasm 
+2 ATP
+
+
+KREBS CYCLE
+Second Step of Cellular Respiration 
+
+Krebs Cycle
+Pyruvate enters the mitochondrion
+Kreb’s cycle produces CO2 and ATP 
+2 ATP are produced (one for every pyruvate) 
+
+
+Krebs Cycle
+The Krebs Cycle can almost be described as a chain reaction. 
+It is a biochemical pathway because the product of one reaction becomes the reactant of the next.
+
+Krebs Cycle
+The Krebs Cycle produces CO2 and ATP
+
+It also produces electron carriers NADH and FADH2, which will carry electrons to the electron transport chain 
+
+ELECTRON TRANSPORT CHAIN
+Third Step of Cellular Respiration 
+
+Electron Transport Chain - 32 ATP
+
+Electron Transport Chain
+The electron transport chain is a sequence of membrane proteins on the inner mitochondrial membrane that shuttle electrons during the reactions that release energy used to make ATP
+
+
+Electron Transport Chain
+At the end of the electron transport chain, hydrogen ions (H+) and electrons combine with O2 molecules to make H2O
+
+Anaerobic Respiration
+WITHOUT THE PRESENCE OF OXYGEN
+
+
+
+Fermentation 
+Without oxygen, the electron transport chain does not function 
+Fermentation releases energy from food, producing ATP, without using oxygen. Instead, the electron carriers NAD+/NADH are recycled. 
+Not as efficient as aerobic respiration (less ATP is produced) 
+Occurs in the cytoplasm of the cell 
+
+
+Alcohol Fermentation 
+Produces ethyl alcohol and carbon dioxide 
+Occurs in yeast and other microorganisms 
+
+
+Lactic Acid Fermentation 
+Produces lactic acid 
+Occurs in muscles 
+
+
+Questions 38-44
+
+Kahoot Review
+https://create.kahoot.it/details/19b081ed-a693-400d-9aa3-abc24bd771f9
+
+
