@@ -1,0 +1,321 @@
+Day 2 - Biology
+Mihit Garlanka & Aditya Chebrolu
+
+Macromolecules
+
+Carbohydrates
+Function: Provides your body with quick energy
+Monomer: Monosaccharide
+Structure:
+
+
+
+Carbohydrates
+Only Contain the elements Carbon, Hydrogen, and oxygen in a ratio of 1:2:1 (C6H12O6)
+Monosaccharides (one sugar) can be identified by their sweet taste
+Glucose
+Fructose
+Disaccharides (2 sugars) are a combination of 2 monosaccharides
+Glucose + Glucose = Maltose
+Glucose + fructose = Sucrose
+Polysaccharides are made of long complex carbohydrate chains (3 or more monosaccharides)
+Starches (Bread,Cereal,Pasta)
+Cellulose(plant cell walls)
+Chitin (Fungi cell walls and insect exoskeleton)
+ 
+
+
+Lipids
+Function: Long term energy,hormones,steroids,cell membrane, insulation, and protection
+Monomer: Triglyceride (1 glycerol and 3 fatty acids)
+Structure:
+
+
+Lipids
+It is made up of Carbon, Hydrogen, and Oxygen and can’t dissolve in water
+Either saturated or unsaturated
+Saturated
+Solid at room temperature
+Considered “Bad fats”
+Butter, lard, grease,etc.
+Unsaturated
+Liquid at room temperature
+Better for you
+Olive Oil, Fish oil, vegetable oil,etc.
+
+
+Proteins
+Function: Helps with the organ’s structure, function and regulation. Creates enzymes to control rate of chemical reaction and builds muscle
+Monomer: Amino Acids
+Structure:
+
+
+Proteins
+They are made up of Carbon, Oxygen, Hydrogen, Nitrogen, and sometimes Sulfur
+
+H
+H
+N
+C
+H
+R
+O
+OH
+C
+an amino group
+and an “R” group which varies in the different amino acids.  This is why there are 20 different amino acids.
+a carboxyl group
+
+Nucleic Acids
+Function: Store genetic information, help make proteins
+Monomer: Nucleotide
+Structure:
+
+
+Nucleic Acids
+Contains the elements carbon, hydrogen, nitrogen, oxyten, and phosphorous
+Contains a sugar,phosphate, and a N-base
+Only macromolecule that can replicate itself
+
+
+
+Questions 1
+
+Genetics
+
+Mitosis
+Mitosis is the process of a cell duplicating its nucleus and splitting into 2 identical cells
+The main steps are:
+
+
+
+Meiosis
+Meiosis is the process of creating sex cells a.k.a gamete cells
+
+
+
+Questions 2-3
+
+Gregor Mendel
+
+Gregor Mendel is known as the “Father of Genetics”
+He was a monk that ran several experiments involving pea plants and seeing how the features of the parents were passed onto their offspring
+
+
+Punnett Squares
+
+Punnett Squares are a form of predicting the likelihood of an offspring having a certain trait depending on the parents
+Dominant Traits: These traits will be expressed whenever the organism has it and is denoted with capital letters on the Punnett Square
+Recessive Traits: These traits will be only be expressed when an organism doesn’t have a conflicting dominant trait and is denoted with lowercase letters
+
+
+Multiple Alleles, Incomplete, and Codominance
+
+Multiple Alleles: This is when there are more than 2 genotypes for an organism
+Human Blood is A, B, O
+Incomplete Dominance: This is when the dominant and recessive traits of a heterozygous trait gets blended together
+Red Flower + White Flower =  Pink Flower
+Codominance: This is when the dominant and recessive traits of a heterozygous trait both are expressed separately
+White Flower + Black Flower = Spotted Flower
+
+
+Double Punnett Squares
+Dihybrid cross
+
+
+Double Punnett Squares are used to predict the likelihood of 2 traits instead of one
+Here is an example of RrYy X RrYy:
+
+
+
+Questions 4-10
+
+Break
+
+Succession
+
+What is Succession?
+Succession is the process of life growing back into an environment that was previously uninhabited or destroyed
+
+
+Primary Succession
+Primary Succession is when life grows onto a place that never had living things beforehand
+Examples are: Newly exposed rock in a glacier, new rock formed by volcanoes,etc.
+
+
+
+Secondary Succession
+Secondary Succession occurs when something reduces an already established ecosystem and life regrows and recovers
+Life can be wiped out due to fires, floods, hurricanes, etc. 
+Biggest difference from primary is that there is still soil in the ecosystem
+
+
+Questions 11-12
+
+Cell Transport
+
+Cell Membrane
+Function : regulates what enters and leaves the cell
+
+
+
+
+
+Structure: a double layered sheet called a lipid bilayer
+
+
+Function
+Lipids: there are two layers of lipids → bilayer
+
+Proteins: form gates, channels or pumps that move material into or out of the cell
+
+Carbohydrate chains: cell identification, so that cells can recognize each other
+
+
+
+Transport
+Permeable: membrane allows substances to pass through
+   		- ex. Water through a strainer
+
+Selectively permeable or semi-permeable: only allows certain molecules to pass through
+molecules cannot pass through if they are too big, or strongly charged
+Spaghetti cannot pass through strainer, it is too big
+screen on a window: fresh air can pass through, but most bugs cannot
+
+
+
+Equilibrium 
+when particles pass through the membrane without any added energy
+particles are in constant motion back and forth across the membrane 
+there is no net change in concentration
+
+
+
+Concentration Gradient 
+Go with the flow and move from HIGH to LOW
+
+
+Two Ways molecules pass through membranes 
+
+1)  PASSIVE TRANSPORT - molecules pass through the cell membrane without the use of energy
+
+
+3 Types of Passive Transport across cell membrane
+
+
+
+Diffusion 
+Facilitated Diffusion 
+Osmosis
+
+
+
+Diffusion
+
+process where molecules of a substance move from high concentration to low concentration (down concentration gradient)
+
+Examples:  Food coloring in a beaker of water, perfume in a corner of the room
+
+
+
+
+Passive Transport
+
+
+Diffusion
+
+
+Diffusion
+
+
+Facilitated Diffusion
+when a cell membrane protein facilitates or helps a molecule diffuse through the membrane 
+
+
+
+Facilitated Diffusion
+
+Types of Facilitated Diffusion 
+
+Ion channel – transport protein with a polar pore through which ions can pass
+Thus, an ION can cross the cell membrane without contacting the nonpolar interior of the lipid bilayer
+Ions:  K+, Cl-, Na+, Ca+
+
+
+
+
+
+Osmosis
+
+The diffusion of water through a selectively permeable membrane
+
+Cell membranes are completely permeable to water, therefore, the environment the cell is exposed to can have a dramatic effect on the cell.
+
+
+
+Isotonic
+means “same strength” when the concentration of each side of the membrane is the same
+
+
+
+Hypertonic
+“above strength”  solution has a higher solute solution than the cell
+
+
+
+
+Hypotonic
+“below strength”  solution has a lower solute solution than the cell
+
+
+
+
+Examples
+
+Questions 13-25
+
+Active Transport
+ energy is necessary for molecules to pass through the cell membrane
+
+
+Active Transport
+uses the cell’s energy to move molecules against a concentration gradient
+proteins pump ions and molecules across the membrane from low to high concentration
+
+
+Protein Pump
+A membrane protein pumps molecules across the membrane against the concentration gradient (low→ high)
+USES ENERGY
+
+
+Active Transport - Ions
+Proton Pump
+H+ (protons) are pumped across the membrane from low to high concentration with help of ATP
+
+Endocytosis
+Bringing large particles into the cell using the cell membrane
+
+There are 2 types:
+
+Phagocytosis
+
+Pinocytosis  --->
+
+
+
+
+Phagocytosis
+This is the ingestion of large particles.
+
+
+Pinocytosis
+Tiny pockets form along cell membrane, and pinch off into vacuoles inside the cell.  Sometimes called “Cell Drinking”
+
+
+
+Exocytosis
+This is how the cell gets rid of waste.
+
+
+
+Questions 26-29
